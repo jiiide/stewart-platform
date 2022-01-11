@@ -1,4 +1,4 @@
-### ME 133A Final Project ###
+## ME 133A Final Project ##
 
 This is the code base of the ME 133A Final Project. In this project, we make use of a Stewart Platforms to prevent balls from entering a sphere.
 
