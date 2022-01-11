@@ -4,6 +4,9 @@ This is the code base of the ME 133A Final Project. In this project, we make use
 
 We would like to mention that this would not have been possible without the SDF file from https://github.com/daniel-s-ingram/stewart.
 
+## Project in Action ##
+https://www.youtube.com/watch?v=iQQUnfXfOdk
+
 ## How to Run ##
 
 Clone this repo to your catkin workspace `src/` directory and build it using `catkin`. Run the following commands
